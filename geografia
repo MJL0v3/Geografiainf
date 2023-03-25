@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        p{
+            font-size: 150%;
+        }
+        h1{
+            font-size: 300%;
+            color: cornflowerblue;
+        }
+        body{
+            background-color: lavender;
+            border: solid;
+            border-color: goldenrod;
+            line-height: 480%;
+        }
+    </style>
+    <title>Geografia</title>
+</head>
+<body>
+    <h1>Resumo de Geografia</h1>
+    <h1>Cartografia</h1>
+    <p>Cartografia é a ciência e a arte de confeccionar mapas. A cartografia é responsável pela criação, produção e análise de mapas gráficos. A cartografia e Geografia estão ligadas, uma é dependente da outra para descrever de forma correta um local da superfície terrestre.</p>   
+    <li><a href="https://www.youtube.com/watch?v=tR_rXa4BdpE">Video sobre Cartografia</a></li>
+    <li><a href="apostila_de_cartografia (3).pdf">Slides de Cartografia</a></li>
+    <h1>Escala</h1>
+    <p>Escala é uma relação matemática entre o que é reproduzido em uma determinada representação e aquilo que corresponde a um objeto real. Qualquer objeto pode ser relativizado de maneira escalar.</p>
+    <li><a href="https://studymaps.com.br/cartografia/">Mapa Mental</a></li>
+    <li><a href="https://www.youtube.com/watch?v=TLY0q8sxsa0">Video sobre Escala</a></li>
+    <a href="https://www.instagram.com/jos3_4ugustomj/">@creditos</a>
+</body>
+</html>
